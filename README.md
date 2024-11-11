@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3394-minimum-array-end](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3394-minimum-array-end) |
 ## Sliding Window
 |  |
 | ------- |
