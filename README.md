@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [0787-sliding-puzzle](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [0787-sliding-puzzle](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1972-rotating-the-box) |
