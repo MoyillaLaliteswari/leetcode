@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0412-fizz-buzz) |
 | [2716-prime-subtraction-operation](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0412-fizz-buzz) |
 | [2232-adding-spaces-to-a-string](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
