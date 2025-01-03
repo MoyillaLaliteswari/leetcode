@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [0494-target-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
