@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
