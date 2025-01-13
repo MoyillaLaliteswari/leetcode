@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [0494-target-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0011-container-with-most-water) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
