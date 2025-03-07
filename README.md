@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1025-minimum-cost-for-tickets) |
