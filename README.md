@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0952-word-subsets) |
