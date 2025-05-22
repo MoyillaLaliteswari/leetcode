@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
