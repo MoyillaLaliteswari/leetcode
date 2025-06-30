@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0787-sliding-puzzle) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0952-word-subsets) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MoyillaLaliteswari/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MoyillaLaliteswari/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/MoyillaLaliteswari/leetcode/tree/master/2164-two-best-non-overlapping-events) |
